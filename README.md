@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Wesley Machado
-
 ## 💻 DevOps Jr | SRE | Cloud Enthusiast
 
 I'm currently starting my journey in the **DevOps** and **Site Reliability Engineering (SRE)** field. I had the opportunity to join a highly skilled team, where I'm learning and growing every day through:
