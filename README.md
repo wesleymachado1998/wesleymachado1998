@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Wesley Machado
 
-<!--
-**wesleymachado1998/wesleymachado1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 DevOps Jr | SRE | Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm currently starting my journey in the **DevOps** and **Site Reliability Engineering (SRE)** field. I had the opportunity to join a highly skilled team, where I'm learning and growing every day through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Studies and certifications (focused on **OCI - Oracle Cloud Infrastructure**)
+- 🛠️ Hands-on experience with real-world projects
+
+## 🔧 Currently working with:
+ 
+- ![Docker](https://img.icons8.com/color/24/000000/docker.png) **Docker**  
+- ![Oracle](https://img.icons8.com/color/24/000000/oracle-logo.png) **Oracle**  
+- ![Jenkins](https://img.icons8.com/color/24/000000/jenkins.png) **Jenkins**  
+- ![Kubernetes](https://img.icons8.com/color/24/000000/kubernetes.png) **Kubernetes**
+- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zabbix.svg" alt="Zabbix" width="20"/> **Zabbix**  
+- ![Grafana](https://img.icons8.com/color/24/000000/grafana.png) **Grafana** 
+
+
+These are the tools I use daily and continue to learn through practical application.
+
+## 📈 Goals
+
+- Earn certifications
+- Grow as a DevOps/SRE professional
+- Contribute to impactful and scalable infrastructure projects
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/wesleymachadodasilva/)
